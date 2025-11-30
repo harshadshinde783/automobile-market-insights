@@ -67,16 +67,14 @@ Filter the dashboard by: - **Country** - **Brand** - **Year**
 
 ## 📝 **Conclusion**
 
-This dashboard converts complex automotive data into clear,
-interactive insights.With clean visuals and dynamic filters, 
-it helps users quickly understand market trends, compare top brands, 
-and analyze production, pricing, and performance patterns. It serves as 
-a strong foundation for data-driven decision-making and further analytics development
+This dashboard converts complex automotive data into clear, interactive insights. 
+With clean visuals and dynamic filters, it helps users quickly understand market trends 
+compare top brands, and analyze production, pricing, and performance patterns. 
+It serves as a strong foundation for data-driven decision-making and further analytics development.
 ------------------------------------------------------------------------
 
 ## 👨‍💻 **Author**
 
 **Harshad Shinde**\
-.
 ------------------------------------------------------------------------
 
