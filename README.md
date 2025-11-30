@@ -19,6 +19,8 @@ empowers analysts and stakeholders to quickly interpret market patterns.
 
 [Dashborad_Image.jpg](https://github.com/harshadshinde783/automobile-market-insights/blob/main/Dashborad_Image.jpg)
 
+------------------------------------------------------------------------
+
 ### 🔹 **KPI Highlight Cards**
 
 -   **Average Price**
