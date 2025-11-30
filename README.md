@@ -17,7 +17,7 @@ empowers analysts and stakeholders to quickly interpret market patterns.
 
 ## 📸 **Dashboard Preview**
 
-![Dashboard](Dashboard_Image.jpg)
+Dashborad_Image.jpg
 
 ### 🔹 **KPI Highlight Cards**
 
