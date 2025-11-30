@@ -13,6 +13,12 @@ empowers analysts and stakeholders to quickly interpret market patterns.
 
 ------------------------------------------------------------------------
 
+
+
+## 📸 **Dashboard Preview**
+
+![Dashboard](Dashboard_Image.jpg)
+
 ### 🔹 **KPI Highlight Cards**
 
 -   **Average Price**
